@@ -1,0 +1,6 @@
+#Ignore files and Django generated dirs
+__pycache__/
+*.sqlite3
+*.pyc
+#Ignore local configuration files
+*.env
